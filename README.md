@@ -1,5 +1,5 @@
 # Ollama-Chat
-write to your ollama model with this code
-
-to make this work you will need a ollama model
-then you need to replace the Your ollama model with the name from your ollama model for example llama3.2
+To make this code work you need:
+- Ollama
+- any Ollama model
+- replace in the code "Your ollama Model" with the name of your ollama model for example llama3.2
