@@ -38,7 +38,7 @@ class Chat():
 
         messages.append({"role": "user", "content": self.uip})
 
-        stream = ollama.chat(model="Your ollama model name here", messages=messages, stream=True)
+        stream = ollama.chat(model="Your ollama model name here", messages=messages, stream=True) #here write the name of your ollama model
 
         response = []
         for chunk in stream:
