@@ -9,3 +9,5 @@ THis code allows you to have your own private chat with your chat bot you can al
 
 - i personally would take a small modle the size of around 1b to 3b parameters as this would be enough for most users
 - this would be perfect for most people: https://ollama.com/library/llama3.2:1b
+
+  made by ulimuli
